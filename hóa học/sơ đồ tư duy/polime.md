@@ -103,11 +103,5 @@
                                                                      - Cao su tổng hợp (Synthetic rubber): Cao su Buna,
                                                                        Buna-S, Buna-N
 
-                                          🤔❓💭
-                                     (Vài điểm lưu ý nhỏ Trang dành cho Hoàng):
-             - Học kỹ định nghĩa, điều kiện để có phản ứng trùng hợp, trùng ngưng.
-             - Ghi nhớ tên gọi, công thức của một số monome và polime quan trọng.
-             - Nắm vững ứng dụng thực tế của các polime.
-             - Hiểu được bản chất của từng loại tính chất vật lý & hóa học.
 
 ```
